@@ -2,8 +2,9 @@
 A Java console-based **Hotel Reservation System** developed using Core Java and Object-Oriented Programming concepts.
 This project simulates a basic hotel reservation workflow including room management, customer management, room booking, cancellation, check-in, check-out, billing, and file-based data persistence.
 ---
-## 🎥 Demo Video
-[▶️ Watch Hotel Reservation System Demo](https://youtu.be/5XuVM1uTKu8)
+## 🎥 Project Demo
+[![Hotel Reservation System Demo](https://img.youtube.com/vi/5XuVM1uTKu8/maxresdefault.jpg)](https://youtu.be/5XuVM1uTKu8)
+Click the thumbnail above to watch the complete project demonstration on YouTube.
 ## 🚀 Features
 
 - Add Hotel Rooms
